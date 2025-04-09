@@ -24,7 +24,7 @@ Atualmente estudando Java Full Stack com o intúito de transitar de área e elev
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogomez&layout=compact&langs_count=20&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theogomez&theme=tokyonight" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theogomez&theme=tokyonight" />
 </div>
 
